@@ -1,4 +1,4 @@
-# Restaurants in United States — US Restaurant Company Dataset (50,000 Records)
+# Restaurants in United States — US Restaurant Company Dataset with LinkedIn URLs (50,000 Records)
 
 Welcome! This is a clean, ready-to-use list of **50,000 restaurant companies across the United States** — perfect for lead generation, market research, and data projects. Browse the free sample below to see the quality before you buy.
 
