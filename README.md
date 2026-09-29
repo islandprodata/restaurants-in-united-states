@@ -7,7 +7,7 @@
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **50,000 rows** | CSV | 👉 **Buy on Gumroad — $2 per 10,000 records ($10 total)** → **[PASTE GUMROAD LINK HERE]** |
+| **Full dataset** | **50,000 rows** | CSV | 👉 **Buy on Gumroad — $2 per 10,000 records ($10 total)** → **https://islandprosoftware.gumroad.com/l/suhxvk** |
 
 > ⭐ **Start with the [free 500-row sample](companies_sample500.csv)** — same columns, same format as the full file. If it fits your workflow, grab the complete 50,000-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ All 50,000 records match `country = 'united states'` AND `industry = 'restaurant
 - **50,000 US restaurant companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $10 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here → **[PASTE GUMROAD LINK HERE]**
+- Buy here → **https://islandprosoftware.gumroad.com/l/suhxvk**
 
 ## Use cases
 
